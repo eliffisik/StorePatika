@@ -12,6 +12,14 @@ export default StyleSheet.create({
         height: Dimensions.get('window').height / 4,
         borderRadius: 8,
       },
-
+    title:{
+        fontSize:18,
+        fontWeight:'bold',
+    },
+    stock:{
+color:'red',
+fontSize:18,
+fontWeight:'bold',
+    }
 
 })
